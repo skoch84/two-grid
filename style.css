@@ -1,0 +1,50 @@
+.c1 {
+  background-color: white;
+  padding-bottom: 2vh;
+}
+
+.c2 {
+  background-color: #feda6a;
+  color: #1d1e22;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+.c3 {
+  background-color: whitesmoke;
+  padding-top: 2vh;
+}
+
+.center{
+  text-align: center;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  letter-spacing: -1.25px;
+  text-transform: uppercase;
+  color: #393f4d;
+}
+
+h3{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
