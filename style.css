@@ -48,3 +48,8 @@ h5{
 p{
   font-family: 'Montserrat', sans-serif;
 }
+
+.pad{
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
